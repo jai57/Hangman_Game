@@ -1,4 +1,4 @@
-# Hangman Game
+# Hangman Game :star_struck:
 
 Welcome to the Hangman Game!!! This is a simple implementation of the classic word-guessing game, Hangman.
 
