@@ -11,7 +11,6 @@ _This is the home page of Hangman Game..._
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Gameplay](#gameplay)
 - [Deployment](#deployment)
 - [Acknowledgments](#acknowledgments)
@@ -48,20 +47,20 @@ To run the Hangman Game locally on your machine, follow these steps:
 4. The game ends when the player either correctly guesses the word or runs out of attempts.
 5. Finally it displays as the pop up of win or loose along with the correct word.
 
-_Page after won the Game_
+_Page after won the Game..._
 ![Page after won the Game](https://github.com/purna333/Hangman_Game/blob/master/Assets/Page%20after%20won%20game.png)
 
-_Page after lost the Game_
+_Page after lost the Game..._
 ![Page after lost the Game](https://github.com/purna333/Hangman_Game/blob/master/Assets/Page%20after%20lost%20game.png)
 
 
 ## Deployment
 
 This Hangman Game is also deployed on Netlify. You can access the live version of the game using the following link:
+**You can view my app by clicking the below link**
 
 [Play Hangman Game](https://simple-hangmangame.netlify.app/)
 
 ## Acknowledgments
 
-- This game was inspired by the classic Hangman game.
-- Thanks to all the contributors and users for their support and feedback.
+This game was inspired by the classic Hangman game.
