@@ -57,7 +57,8 @@ _Page after lost the Game..._
 ## Deployment
 
 This Hangman Game is also deployed on Netlify. You can access the live version of the game using the following link:
-**You can view my app by clicking the below link**
+
+_**You can view my app by clicking the below link**_
 
 [Play Hangman Game](https://simple-hangmangame.netlify.app/)
 
