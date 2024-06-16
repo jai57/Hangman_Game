@@ -4,7 +4,7 @@ Welcome to the Hangman Game!!! This is a simple implementation of the classic wo
 
 _This is the home page of Hangman Game..._
 
-![Home page of Hangman Game](https://github.com/purna333/Hangman_Game/blob/master/Assets/SS%20of%20Home%20page.png)
+![Home page of Hangman Game](https://github.com/jai57/Hangman_Game/blob/master/Assets/SS%20of%20Home%20page.png)
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ To run the Hangman Game locally on your machine, follow these steps:
 
 1. **To Clone the repository**:
     ```bash
-    git clone https://github.com:purna333/Hangman_Game
+    git clone https://github.com:jai57/Hangman_Game
     ```
 
 
@@ -48,10 +48,10 @@ To run the Hangman Game locally on your machine, follow these steps:
 5. Finally it displays as the pop up of win or loose along with the correct word.
 
 _Page after won the Game..._
-![Page after won the Game](https://github.com/purna333/Hangman_Game/blob/master/Assets/Page%20after%20won%20game.png)
+![Page after won the Game](https://github.com/jai57/Hangman_Game/blob/master/Assets/Page%20after%20won%20game.png)
 
 _Page after lost the Game..._
-![Page after lost the Game](https://github.com/purna333/Hangman_Game/blob/master/Assets/Page%20after%20lost%20game.png)
+![Page after lost the Game](https://github.com/jai57/Hangman_Game/blob/master/Assets/Page%20after%20lost%20game.png)
 
 
 ## Deployment
